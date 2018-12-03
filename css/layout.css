@@ -1,0 +1,29 @@
+
+body {
+display: grid;
+height: 100vh;
+grid-template-rows: 92px 1fr 70px;
+}
+
+header{
+display:flex;
+justify-content: space-between;
+}
+
+
+footer {
+display:flex;
+align-items:center;
+}
+
+main{
+display:flex;
+}
+
+.lefty {
+Margin-top:auto;
+padding-bottom: 1%;
+Padding-left: 1%;
+max-width: 400px;
+min-width:200px;
+}
